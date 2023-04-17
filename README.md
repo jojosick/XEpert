@@ -33,7 +33,7 @@ Run with using command ``npm start run``
 
 for more info Dm Me on discord ``!D R A G O#0001``
 
-Join Discord server https://discord.gg/BFqC7NxS2z
+**Join Discord server** https://discord.gg/BFqC7NxS2z
 
 Give me Credits if wanna give me love
 
