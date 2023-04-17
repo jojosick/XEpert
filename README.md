@@ -1,9 +1,28 @@
 # XEpert
 
 A discord multipuspose Bot
+clickable Commands
+![image](https://user-images.githubusercontent.com/92865043/232497758-aaf08f8d-0ce6-4715-9a52-0ec43c40e3cb.png)
 
-![image](https://user-images.githubusercontent.com/92865043/232493369-4c8e3b77-d8b0-4b99-95aa-935c35bf3048.png)
-
+**Features**
+``Application``
+``BotShop``
+``Developer`` 
+``economy`` 
+``Fun``
+``Games`` 
+``Giveaways`` 
+``info``  
+``Moderation`` 
+``Music`` 
+``premium`` 
+``reactionroles`` 
+``Roles`` 
+``Services``
+``setup`` 
+``Suggestions`` 
+``Ticket 
+``Videos``
 start with installing pakage ``npm install``
 
 Run with using command ``npm start run``
