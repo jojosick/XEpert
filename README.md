@@ -24,7 +24,7 @@ A discord multipuspose Bot
 ``Services``
 ``setup`` 
 ``Suggestions`` 
-``Ticket 
+``Ticket`` 
 ``Videos``
 
 start with installing pakage ``npm install``
