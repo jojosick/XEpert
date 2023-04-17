@@ -7,6 +7,7 @@ clickable Commands
 ![image](https://user-images.githubusercontent.com/92865043/232497758-aaf08f8d-0ce6-4715-9a52-0ec43c40e3cb.png)
 
 **Features**
+
 ``Application``
 ``BotShop``
 ``Developer`` 
@@ -25,6 +26,7 @@ clickable Commands
 ``Suggestions`` 
 ``Ticket 
 ``Videos``
+
 start with installing pakage ``npm install``
 
 Run with using command ``npm start run``
