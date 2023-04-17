@@ -1,6 +1,8 @@
 # XEpert
-**Note**
+
 **A multifunctional Discord bot With Ai image gen**
+
+**Note**
 
 ``First if you Start cloning this repo please Invite My bot into your discord server to show me some support then i'll make video and Source code  for Its Dashboard 
 A discord multipuspose Bot with AI image and premium system 🌟``
