@@ -2,7 +2,13 @@
 **Note**
 
 ``First if you Start cloning this repo please Invite My bot into your discord server to show me some support then i'll make video and Source code  for Its Dashboard 
-A discord multipuspose Bot with AI image and premium system``
+A discord multipuspose Bot with AI image and premium system 🌟``
+
+**You can Add My discord Bot for preview✨**
+
+<a href="https://top.gg/bot/1023810715250860105">
+<img src="https://top.gg/api/widget/1023810715250860105.svg">
+</a>
 
 **Commands info**
 
@@ -39,10 +45,6 @@ for more info Dm Me on discord ``!D R A G O#0001``
 
 **Join Discord server** https://discord.gg/BFqC7NxS2z
 
-Give me Credits if wanna give me love
+Give me Credits if wanna give me love💝
 
-**You can Add My discord Bot for preview**
 
-<a href="https://top.gg/bot/1023810715250860105">
-<img src="https://top.gg/api/widget/1023810715250860105.svg">
-</a>
