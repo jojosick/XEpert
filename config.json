@@ -4,8 +4,5 @@
     "botMainColor": "0xff5454",
     "botErrorColor": "0xdb3535",
     "token": "",
-    "mongodb": "mongodb+srv://azmatmustafa878:azm09090@cluster0.hb1nt0o.mongodb.net/?retryWrites=true&w=majority",
-    "BrainShopAPI": "DkmWHbxsPOAESNXc",
-  "OPENAI_ORG": "https://openai.com/",
-  "OPENAI_KEY": "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"
+    "mongodb": "your mondgo db"
 }
